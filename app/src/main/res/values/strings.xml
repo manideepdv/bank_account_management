@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accounts Tracker</string>
+
+    <string name="accountsprompt">Select Account</string>
+</resources>
